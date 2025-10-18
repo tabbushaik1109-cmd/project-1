@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My To-Do List</title>
+</head>
+<body>
+  <h2>My To-Do List</h2>
+  <ul>
+    <li>Learn HTML</li>
+    <li>Practice Python</li>
+    <li>Upload projects to GitHub</li>
+  </ul>
+</body>
+</html>
