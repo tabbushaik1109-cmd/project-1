@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Colored Text</title>
+</head>
+<body style="background-color: lightyellow;">
+  <h2 style="color: blue;">This is blue text</h2>
+  <p style="color: green;">This is green text on a yellow background.</p>
+</body>
+</html>
